@@ -1,0 +1,4 @@
+# Glossary
+
+### Decoherence
+Quantum decoherence is the loss of quantum coherence. In quantum mechanics, particles such as electrons are described by a wave function, a mathematical representation of the quantum state of a system; a probabilistic interpretation of the wave function is used to explain various quantum effects. As long as there exists a definite phase relation between different states, the system is said to be coherent. A definite phase relationship is necessary to perform quantum computing on quantum information encoded in quantum states. Coherence is preserved under the laws of quantum physics. 
